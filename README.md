@@ -7,7 +7,7 @@ The study focuses on three trust dimensions: **Machine Ethics**, **Toxicity**, a
 
 ### Main Notebooks
 
-#### 1. `Assignment_Preparation.ipynb`
+#### 1. `Assignment2_Preparation.ipynb`
 
 This notebook includes:
 - Loading and exploring subsets of the **DecodingTrust** dataset.  
